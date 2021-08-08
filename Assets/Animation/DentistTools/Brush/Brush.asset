@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+  m_Name: Brush
+  m_EditorClassIdentifier: 
+  rootClip: {fileID: 0}
+  m_EnableSequenceCaching: 0
+  m_AssetVersion: 4
+  m_AudioResourcesDirectory: Animation/DentistTools/Brush/
+  m_AssetData: 4341470005096310000078dab5975f4fd35018c6df0ed77563301515411d888ac010c1020e4456ba89f247c0c83d90b84013d80c8cfb7d0412aee03b90c027800fc22d9f43dbe774a50b5cf4e63949d3fece79cfd3f3fe2e9a54136fd40b9a7f4f4ad2bd67ffb9c394b3589be41f62457ec9ed383d59b5cddfb95283b5b4ec57abb57567afbceb54ca865c3452bd582d29f6fee1c1cec8dfcab637f9008be796691e5b229bb60b96372fb2664b3d57c21e157c75a98aae4345f9a028264d4962dd97d4d29c942dde978423a564d87f341a53120fcea2072f4c04a9ba0cfab329d5e286f367b7acb93b323e6f559cbdad9a53adc45c8169b9695722558b7e93f1c0ab7728ef0af311ba536f6ec136bf6d3dc2b6a6f4c6d2ddb270af7e7a225aba1e215d0f028374235a7a2242ba8a4a86d3e3d1d28d08e929702bc97b1adc46f2de0ece90bcabcfc22392f7c7e00e92f727e0a724efcfc09d24efcfc15d24efdde01724ef2fc1af48deb3e01e92f75ef06b92f73ef01b92f7b7e07724effde0f724ef03e04192f721708ee47d18fc81e47d04fc91e47d143c46f2fe096c92bc8f832748de27c19f49def3e02992f769f01792f719f05792f7597081e4dd02cf91bcdbe022c9bbfa11fb46f23e0ffe4ef2fe03bc40f2be085e22795f06ff24795f01af92bcaf057ff50cefe18affbaeb8303
+  m_GUID: 2a5bff6ac0b23df439dec37c746bde5d
+  m_Path: Animation/DentistTools/Brush/
+  m_IsExternalDataCollected: 1
+  m_ExternalData:
+  - m_TimelineID: 0
+    m_ObjectTypeFlags: 00000000000000000000000000000000
+  m_HasNesting: 0
+  m_KeyFrames: []
+  m_AudioResources: []

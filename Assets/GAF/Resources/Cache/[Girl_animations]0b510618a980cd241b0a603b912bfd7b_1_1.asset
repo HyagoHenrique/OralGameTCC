@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[Girl_animations]0b510618a980cd241b0a603b912bfd7b_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 0b510618a980cd241b0a603b912bfd7b, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/Characters Gaf/GirlNewAnimation/
+  m_Data:
+  - m_SearchName: Girl_animations
+    m_SharedTexture: {fileID: 2800000, guid: 867a96454a7ff7d4c9be82c37efe9653, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: 04e9665226d8ab449b3b25886e194417, type: 2}
